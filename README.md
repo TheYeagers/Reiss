@@ -6,6 +6,6 @@ pkg install python
 
 git clone https://github.com/Reiss-Clan/Reiss.git
 
-cd Reiss-Clan
+cd Reiss
 
-python Reiss-Clan.py
+python Reiss.py
