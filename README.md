@@ -4,7 +4,7 @@ pip install amino
 
 pkg install python
 
-git clone https://github.com/Reiss-Clan/Reiss.git
+git clone https://github.com/TheYeagers/Reiss.git
 
 cd Reiss
 
